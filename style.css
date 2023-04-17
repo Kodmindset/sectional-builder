@@ -400,7 +400,7 @@ border: 1px solid #575757;
 height: 58px;
 
 }
-[type=submit]{
+.sign-up-form [type=submit]{
    
     background-color: #344C95;
     background-image: none;
